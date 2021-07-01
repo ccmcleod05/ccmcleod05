@@ -1,1 +1,1 @@
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=ccmcleod05.ccmcleod05)
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=ccmcleod05)
