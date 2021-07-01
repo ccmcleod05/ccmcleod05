@@ -1,4 +1,6 @@
-<!--https://github.com/anuraghazra/github-readme-stats-->
+What Social Media Do I Use?
+
+
 
 How Active Am I On GitHub?
 
@@ -6,8 +8,7 @@ How Active Am I On GitHub?
 
 What Languages Do I Code In?
 
-![WakaTime code stats](https://wakatime.com/share/@73bfcc7a-7b5b-4120-a5d9-6987d05398ca/e47c83da-e430-4790-b42f-b23fecbc030a.svg)
-
+[![WakaTime code stats](https://wakatime.com/share/@73bfcc7a-7b5b-4120-a5d9-6987d05398ca/e47c83da-e430-4790-b42f-b23fecbc030a.svg)](https://wakatime.com/dashboard)
 
 
 <!--START_SECTION:waka-->
