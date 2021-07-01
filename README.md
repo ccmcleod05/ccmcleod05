@@ -12,5 +12,8 @@ What Languages Do I Code In?
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
