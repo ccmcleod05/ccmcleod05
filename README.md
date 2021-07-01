@@ -1,1 +1,5 @@
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=ccmcleod05) <!--set page_id to ccmcleod05.ccmcleod05 (respository name) if it doesn't work)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccmcleod05&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
