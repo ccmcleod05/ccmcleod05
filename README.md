@@ -69,7 +69,11 @@ java CamdenMcLeod
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     1 hr 33 mins    █████████▒░░░░░░░░░░░░░░░   37.97 % 
+Other        1 hr 19 mins    ████████░░░░░░░░░░░░░░░░░   32.17 % 
+YAML         44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 % 
+CSS          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+JavaScript   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 ```
 <!--END_SECTION:waka-->
 
