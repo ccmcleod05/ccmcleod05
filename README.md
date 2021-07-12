@@ -69,9 +69,7 @@ java CamdenMcLeod
 
 <!--START_SECTION:waka-->
 ```text
-Other   1 hr 6 mins     ███████████████████░░░░░░   76.30 % 
-YAML    16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-XML     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
