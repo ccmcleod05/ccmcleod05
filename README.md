@@ -1,7 +1,7 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 ```java
-public class CamdenMcleod
+public class CM
 
   public static void main(String[] args){
   
@@ -11,8 +11,8 @@ public class CamdenMcleod
 ```
 
 ```bash
-javac CamdenMcLeod.java
-java CamdenMcLeod
+javac CM.java
+java CM
 ```
 <br />
 
