@@ -69,7 +69,11 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Solidity     2 hrs 33 mins   ████████████▓░░░░░░░░░░░░   50.79 % 
+YAML         52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Other        50 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.68 % 
+JSON         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+JavaScript   18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 <!--END_SECTION:waka-->
 
