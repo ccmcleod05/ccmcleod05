@@ -69,9 +69,7 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-Python   6 hrs 14 mins   ███████████████████████▒░   93.55 % 
-Text     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Dart     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
