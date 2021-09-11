@@ -69,7 +69,7 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-Java   11 mins         █████████████████████████   100.00 % 
+Java   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
