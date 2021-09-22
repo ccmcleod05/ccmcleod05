@@ -69,11 +69,7 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-Python       5 hrs 49 mins   ███████████████████░░░░░░   76.30 % 
-JavaScript   54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Git Config   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-HTML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Python   5 hrs 22 mins   █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
 
