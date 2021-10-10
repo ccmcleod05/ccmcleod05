@@ -69,8 +69,7 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-Java   1 hr 48 mins    ███████████████████████▓░   94.41 % 
-C#     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Java   29 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
