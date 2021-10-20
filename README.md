@@ -69,7 +69,7 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Git Config   3 mins          ████████████████████████▒   96.72 % 
 ```
 <!--END_SECTION:waka-->
 
