@@ -69,7 +69,9 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-C#   11 hrs 9 mins   █████████████████████████   100.00 % 
+C#           11 hrs 54 mins  ████████████████████████▒   97.08 % 
+Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Markdown     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
 
