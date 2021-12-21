@@ -69,7 +69,8 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-
+Python     2 hrs           ███████████████████████░░   92.22 % 
+C#         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 <!--END_SECTION:waka-->
 
