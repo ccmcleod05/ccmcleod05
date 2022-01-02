@@ -69,7 +69,9 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-Python   13 mins         █████████████████████████   100.00 % 
+Python       3 hrs 46 mins   ███████████████████████▒░   93.54 % 
+Bash         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 <!--END_SECTION:waka-->
 
