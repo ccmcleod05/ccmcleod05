@@ -69,11 +69,7 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 46 mins   ███████████████░░░░░░░░░░   59.87 % 
-Python       1 hr 36 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.50 % 
-JSON         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Java         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
