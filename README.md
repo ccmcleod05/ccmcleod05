@@ -69,7 +69,8 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java     44 mins         ███████████████████████▓░   94.12 % 
+Python   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 <!--END_SECTION:waka-->
 
