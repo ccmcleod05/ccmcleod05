@@ -69,7 +69,10 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-
+Python       1 hr 37 mins    █████████████████░░░░░░░░   68.05 % 
+TypeScript   31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.82 % 
+JSON         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
 
