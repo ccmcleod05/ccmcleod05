@@ -69,12 +69,8 @@ java CM
 
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 27 mins
-
-Python       1 hr 39 mins    ████████████████▓░░░░░░░░   67.32 % 
-TypeScript   32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.18 % 
-JSON         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Python       1 min           █████████▒░░░░░░░░░░░░░░░   37.68 % 
+TypeScript   1 min           █████████▒░░░░░░░░░░░░░░░   36.68 % 
 ```
 <!--END_SECTION:waka-->
 
