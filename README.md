@@ -70,12 +70,7 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 7 mins    █████████████▓░░░░░░░░░░░   54.27 %
-Python       2 hrs 19 mins   ██████████░░░░░░░░░░░░░░░   40.50 %
-Git Config   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
