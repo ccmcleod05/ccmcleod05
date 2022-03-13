@@ -70,7 +70,9 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java       45 mins         █████████████████████████   99.75 %
+Dart       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
