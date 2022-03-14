@@ -70,9 +70,8 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-Java       45 mins         █████████████████████████   99.75 %
-Dart       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java         2 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.90 %
+Other        1 hr 48 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
 ```
 
 <!--END_SECTION:waka-->
