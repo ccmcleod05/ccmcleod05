@@ -70,9 +70,9 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 31 mins   █████████▒░░░░░░░░░░░░░░░   36.85 %
-Vue.js       4 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
-Other        2 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+JavaScript   7 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   37.96 %
+Vue.js       4 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+Other        2 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
 ```
 
 <!--END_SECTION:waka-->
