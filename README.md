@@ -70,9 +70,7 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-Python       41 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
-Git Config   23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.43 %
-Other        21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
