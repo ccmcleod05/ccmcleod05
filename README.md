@@ -70,7 +70,10 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   8 mins          ██████████████░░░░░░░░░░░   55.88 %
+Java       4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+Python     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
