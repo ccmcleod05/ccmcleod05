@@ -70,7 +70,7 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-Other        2 hrs 56 mins   ███████████▒░░░░░░░░░░░░░   45.91 %
+Other        2 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.62 %
 ```
 
 <!--END_SECTION:waka-->
