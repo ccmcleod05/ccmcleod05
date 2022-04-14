@@ -70,7 +70,7 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-Other        11 mins         █████████████████▓░░░░░░░   70.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
