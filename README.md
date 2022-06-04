@@ -70,7 +70,8 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Text     8 mins          ███████████████████▒░░░░░   77.47 %
+Python   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
 ```
 
 <!--END_SECTION:waka-->
