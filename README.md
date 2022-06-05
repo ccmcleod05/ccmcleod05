@@ -70,8 +70,8 @@ java CM
 <!--START_SECTION:waka-->
 
 ```text
-Text     8 mins          ███████████████████▒░░░░░   77.47 %
-Python   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
+Python   13 mins         ███████████████▒░░░░░░░░░   61.96 %
+Text     8 mins          █████████▓░░░░░░░░░░░░░░░   38.04 %
 ```
 
 <!--END_SECTION:waka-->
